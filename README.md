@@ -4,4 +4,4 @@
 - ```python camhack.py```
 
 # Made By blazyrealll
-- Discord Name: blazyrealll-
+- Discord Name: blazyrealll
